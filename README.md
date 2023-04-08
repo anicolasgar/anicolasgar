@@ -25,6 +25,6 @@ Feel free to reach out to me via:
 
 ### 📚 Interests and Hobbies
   
-Outside of work, I enjoy reading, cycling around Amsterdam and since a couple of months I added a new one to the list: Playing guitar 🎸.
+Outside of work, I enjoy reading, cycling around Amsterdam and since a couple of months I added a new one to the list: Playing the guitar 🎸.
 
 Feel free to connect with me on LinkedIn or send me an email if you'd like to chat about data science, software engineering, or anything else.
