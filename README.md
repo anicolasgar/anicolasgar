@@ -8,7 +8,7 @@ I'm Nicolas Garcia, an enthusiast software engineer based in Amsterdam, the Neth
 Originally from Buenos Aires, Argentina, I moved to Amsterdam three years ago and fell in love with the country and lifestyle. I enjoy exploring new technologies and developing data-driven solutions to complex problems. My background is in software engineering, and I'm passionate about building scalable, efficient, and reliable systems.
 
 
-### 📫 How to Reach Me
+### 📫 How to Reach out
 
 Feel free to reach out to me via:
 
@@ -25,6 +25,6 @@ Feel free to reach out to me via:
 
 ### 📚 Interests and Hobbies
   
-Outside of work, I enjoy reading, cycling around Amsterdam and since a couple of months I added a new one to the list: Playing the guitar 🎸.
+Outside of work, I enjoy reading, cycling around Amsterdam and since a couple of months I've added a new hobby to the list: Playing the guitar 🎸.
 
 Feel free to connect with me on LinkedIn or send me an email if you'd like to chat about data science, software engineering, or anything else.
