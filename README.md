@@ -5,7 +5,7 @@ I'm Nicolas Garcia, an enthusiast software engineer based in Amsterdam, the Neth
 
 ### 🌟 About Me 
 
-Originally from Buenos Aires, Argentina, I moved to Amsterdam three years ago and fell in love with the country and lifestyle. I enjoy exploring new technologies and developing data-driven solutions to complex problems. My background is in software engineering, and I'm passionate about building scalable, efficient, and reliable systems.
+Originally from Buenos Aires, Argentina, I moved to Amsterdam in 2019 and inmediately fell in love with the country and lifestyle. I enjoy exploring new technologies and developing data-driven solutions to complex problems. My background is in software engineering, and I'm passionate about building scalable, efficient, and reliable systems.
 
 
 ### 📫 How to Reach out
